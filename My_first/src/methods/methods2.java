@@ -1,3 +1,4 @@
+package methods;
 
 public class methods2 {
 	public static void main(String[] args) {

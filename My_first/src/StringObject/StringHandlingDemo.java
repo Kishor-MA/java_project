@@ -1,5 +1,6 @@
+package StringObject;
 
-public class string_objects {
+public class StringHandlingDemo {
 	public static void main(String[] args) {
 		
 		String s1 = "Dr AIT";

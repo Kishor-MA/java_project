@@ -1,3 +1,4 @@
+package methods;
 
 public class passing_parameters {
 	public static void main(String[] args) {
